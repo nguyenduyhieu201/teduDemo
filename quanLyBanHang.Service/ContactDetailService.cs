@@ -7,7 +7,7 @@ using quanLyBanHang.Data;
 using quanLyBanHang.Data.Infrastructure;
 using quanLyBanHang.Data.Repositories;
 using quanLyBanHang.Model.Models;
-
+using quanLyBanHang.Model.Models;
 
 namespace quanLyBanHang.Service
 {

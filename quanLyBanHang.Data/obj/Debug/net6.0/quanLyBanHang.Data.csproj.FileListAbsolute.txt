@@ -3,3 +3,15 @@ D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\obj\Debug\net6.0\quanLyBanHang.D
 D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\obj\Debug\net6.0\quanLyBanHang.Data.AssemblyInfoInputs.cache
 D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\obj\Debug\net6.0\quanLyBanHang.Data.AssemblyInfo.cs
 D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\obj\Debug\net6.0\quanLyBanHang.Data.csproj.CoreCompileInputs.cache
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\bin\Debug\net6.0\quanLyBanHang.Data.deps.json
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\bin\Debug\net6.0\quanLyBanHang.Data.runtimeconfig.json
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\bin\Debug\net6.0\quanLyBanHang.Data.dll
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\bin\Debug\net6.0\ref\quanLyBanHang.Data.dll
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\bin\Debug\net6.0\quanLyBanHang.Data.pdb
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\bin\Debug\net6.0\quanLyBanHang.Model.dll
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\bin\Debug\net6.0\quanLyBanHang.Model.pdb
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\obj\Debug\net6.0\quanLyBanHang.Data.csproj.CopyComplete
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\obj\Debug\net6.0\quanLyBanHang.Data.dll
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\obj\Debug\net6.0\ref\quanLyBanHang.Data.dll
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\obj\Debug\net6.0\quanLyBanHang.Data.pdb
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\obj\Debug\net6.0\quanLyBanHang.Data.genruntimeconfig.cache
