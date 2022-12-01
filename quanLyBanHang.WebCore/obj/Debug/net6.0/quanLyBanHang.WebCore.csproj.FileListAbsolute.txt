@@ -1,0 +1,6 @@
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.WebCore\obj\Debug\net6.0\quanLyBanHang.WebCore.csproj.AssemblyReference.cache
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.WebCore\obj\Debug\net6.0\quanLyBanHang.WebCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.WebCore\obj\Debug\net6.0\quanLyBanHang.WebCore.AssemblyInfoInputs.cache
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.WebCore\obj\Debug\net6.0\quanLyBanHang.WebCore.AssemblyInfo.cs
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.WebCore\obj\Debug\net6.0\quanLyBanHang.WebCore.csproj.CoreCompileInputs.cache
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.WebCore\obj\Debug\net6.0\quanLyBanHang.WebCore.MvcApplicationPartsAssemblyInfo.cache

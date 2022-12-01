@@ -1,0 +1,5 @@
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Service\obj\Debug\net6.0\quanLyBanHang.Service.csproj.AssemblyReference.cache
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Service\obj\Debug\net6.0\quanLyBanHang.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Service\obj\Debug\net6.0\quanLyBanHang.Service.AssemblyInfoInputs.cache
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Service\obj\Debug\net6.0\quanLyBanHang.Service.AssemblyInfo.cs
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Service\obj\Debug\net6.0\quanLyBanHang.Service.csproj.CoreCompileInputs.cache

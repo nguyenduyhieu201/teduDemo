@@ -1,0 +1,10 @@
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\obj\Debug\netstandard2.0\quanLyBanHang.Data.csproj.AssemblyReference.cache
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\obj\Debug\netstandard2.0\quanLyBanHang.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\obj\Debug\netstandard2.0\quanLyBanHang.Data.AssemblyInfoInputs.cache
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\obj\Debug\netstandard2.0\quanLyBanHang.Data.AssemblyInfo.cs
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\obj\Debug\netstandard2.0\quanLyBanHang.Data.csproj.CoreCompileInputs.cache
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\bin\Debug\netstandard2.0\quanLyBanHang.Data.deps.json
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\bin\Debug\netstandard2.0\quanLyBanHang.Data.dll
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\bin\Debug\netstandard2.0\quanLyBanHang.Data.pdb
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\obj\Debug\netstandard2.0\quanLyBanHang.Data.dll
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Data\obj\Debug\netstandard2.0\quanLyBanHang.Data.pdb

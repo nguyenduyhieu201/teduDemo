@@ -1,0 +1,13 @@
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Model\bin\Debug\netstandard2.0\quanLyBanHang.Model.deps.json
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Model\bin\Debug\netstandard2.0\quanLyBanHang.Model.dll
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Model\bin\Debug\netstandard2.0\quanLyBanHang.Model.pdb
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Model\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Model\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Model\obj\Debug\netstandard2.0\quanLyBanHang.Model.csproj.AssemblyReference.cache
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Model\obj\Debug\netstandard2.0\quanLyBanHang.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Model\obj\Debug\netstandard2.0\quanLyBanHang.Model.AssemblyInfoInputs.cache
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Model\obj\Debug\netstandard2.0\quanLyBanHang.Model.AssemblyInfo.cs
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Model\obj\Debug\netstandard2.0\quanLyBanHang.Model.csproj.CoreCompileInputs.cache
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Model\obj\Debug\netstandard2.0\quanLyBanHang.Model.csproj.CopyComplete
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Model\obj\Debug\netstandard2.0\quanLyBanHang.Model.dll
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Model\obj\Debug\netstandard2.0\quanLyBanHang.Model.pdb
