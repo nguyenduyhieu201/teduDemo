@@ -1,0 +1,5 @@
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.UnitTest\obj\Debug\net6.0\quanLyBanHang.UnitTest.csproj.AssemblyReference.cache
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.UnitTest\obj\Debug\net6.0\quanLyBanHang.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.UnitTest\obj\Debug\net6.0\quanLyBanHang.UnitTest.AssemblyInfoInputs.cache
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.UnitTest\obj\Debug\net6.0\quanLyBanHang.UnitTest.AssemblyInfo.cs
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.UnitTest\obj\Debug\net6.0\quanLyBanHang.UnitTest.csproj.CoreCompileInputs.cache

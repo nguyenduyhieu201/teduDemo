@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using quanLyBanHang.Data;
 using quanLyBanHang.Data.Infrastructure;
 using quanLyBanHang.Data.Repositories;
 using quanLyBanHang.Model.Models;
@@ -8,11 +9,11 @@ namespace quanLyBanHang.Service
 {
     public interface IPostCategoryService
     {
-        PostCategory Add(PostCategory postCategory);
+        void Add(PostCategory postCategory);
 
         void Update(PostCategory postCategory);
 
-        PostCategory Delete(int id);
+        void Delete(int id);
 
         IEnumerable<PostCategory> GetAll();
 
@@ -34,14 +35,14 @@ namespace quanLyBanHang.Service
             this._unitOfWork = unitOfWork;
         }
 
-        public PostCategory Add(PostCategory postCategory)
+        public void Add(PostCategory postCategory)
         {
-            return _postCategoryRepository.Add(postCategory);
+            _postCategoryRepository.Add(postCategory);
         }
 
-        public PostCategory Delete(int id)
+        public void Delete(int id)
         {
-           return _postCategoryRepository.Delete(id);
+           _postCategoryRepository.Delete(id);
         }
 
         public IEnumerable<PostCategory> GetAll()

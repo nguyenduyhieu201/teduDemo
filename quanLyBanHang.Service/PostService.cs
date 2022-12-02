@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using quanLyBanHang.Data.Infrastructure;
-using quanLyBanHang.Data.Repositories;
+﻿using System.Collections.Generic;
 using quanLyBanHang.Model.Models;
-using System.Linq;
 using quanLyBanHang.Data;
 
 namespace quanLyBanHang.Service

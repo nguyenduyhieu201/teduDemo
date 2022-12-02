@@ -19,7 +19,19 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\quanLyBanHang.Common\quanLyBanHang.Common.csproj" />
     <ProjectReference Include="..\quanLyBanHang.Data\quanLyBanHang.Data.csproj" />
+    <ProjectReference Include="..\quanLyBanHang.Model\quanLyBanHang.Model.csproj" />
+    <ProjectReference Include="..\quanLyBanHang.Service\quanLyBanHang.Service.csproj" />
+    <ProjectReference Include="..\quanLyBanHang.UnitTest\quanLyBanHang.UnitTest.csproj" />
+    <ProjectReference Include="..\quanLyBanHang.Web\quanLyBanHang.Web.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Assets\admin\" />
+    <Folder Include="Assets\client\" />
+    <Folder Include="Infrastructure\Core\" />
+    <Folder Include="Infrastructure\Extensions\" />
   </ItemGroup>
 
 </Project>
