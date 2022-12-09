@@ -22,24 +22,17 @@ namespace quanLyBanHang.Data
         public DbSet<PostCategory> PostCategories { set; get; }
         public DbSet<PostTag> PostTags { set; get; }
         public DbSet<Product> Products { set; get; }
-
         public DbSet<ProductCategory> ProductCategories { set; get; }
         public DbSet<ProductTag> ProductTags { set; get; }
         public DbSet<Slide> Slides { set; get; }
         public DbSet<SupportOnline> SupportOnlines { set; get; }
         public DbSet<SystemConfig> SystemConfigs { set; get; }
-
         public DbSet<Tag> Tags { set; get; }
-
-
-
         public DbSet<VisitorStatistic> VisitorStatistics { set; get; }
+        public DbSet<Error> Errors { set; get; }
         public object ApplicationGroups { get; internal set; }
         public object Users { get; internal set; }
 
-        //public DbSet<Error> Errors { set; get; }
-        //public DbSet<ContactDetail> ContactDetails { set; get; }
-        //public DbSet<Feedback> Feedbacks { set; get; }
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.Entity<OrderDetail>().HasNoKey();

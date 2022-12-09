@@ -1,17 +1,14 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using quanLyBanHang.Service;
 using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
 using System.Net;
 using System.Net.Http;
-using System.Threading.Tasks;
 using quanLyBanHang.Model.Models;
+using System.Web.Http;
 
 namespace quanLyBanHang.WebCore.Infrastructure.Core
 {
-    public class ApiControllerBase
+    public class ApiControllerBase : ApiController
     {
         private IErrorService _errorService;
         public ApiControllerBase(IErrorService errorService)
@@ -28,7 +25,6 @@ namespace quanLyBanHang.WebCore.Infrastructure.Core
             }
             catch (DbUpdateConcurrencyException ex)
             {
-                
                 LogError(ex);
                 response = requestMessage.CreateResponse(HttpStatusCode.BadRequest, ex.InnerException.Message);
             }
@@ -58,6 +54,7 @@ namespace quanLyBanHang.WebCore.Infrastructure.Core
             }
             catch
             {
+
             }
         }
     }

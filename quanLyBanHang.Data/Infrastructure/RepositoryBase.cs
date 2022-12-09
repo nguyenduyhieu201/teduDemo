@@ -83,7 +83,7 @@ namespace quanLyBanHang.Data.Infrastructure
                 return query.AsQueryable().ToList();
             }
 
-            return dataContext.Set<T>().AsQueryable();
+            return dataContext.Set<T>().AsQueryable().ToList();
         }
 
         public T GetSingleByCondition(Expression<Func<T, bool>> expression, string[] includes = null)
