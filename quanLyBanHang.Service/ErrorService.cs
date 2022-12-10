@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using quanLyBanHang.Data;
-using quanLyBanHang.Data.Infrastructure;
+﻿using quanLyBanHang.Data;
 using quanLyBanHang.Data.Repositories;
 using quanLyBanHang.Model.Models;
 

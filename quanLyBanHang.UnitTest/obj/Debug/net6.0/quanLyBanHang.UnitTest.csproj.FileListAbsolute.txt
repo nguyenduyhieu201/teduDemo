@@ -17,7 +17,6 @@ D:\teduDemoPro\quanLyBanHang\quanLyBanHang.UnitTest\bin\Debug\net6.0\Microsoft.V
 D:\teduDemoPro\quanLyBanHang\quanLyBanHang.UnitTest\bin\Debug\net6.0\quanLyBanHang.UnitTest.deps.json
 D:\teduDemoPro\quanLyBanHang\quanLyBanHang.UnitTest\bin\Debug\net6.0\quanLyBanHang.UnitTest.runtimeconfig.json
 D:\teduDemoPro\quanLyBanHang\quanLyBanHang.UnitTest\bin\Debug\net6.0\quanLyBanHang.UnitTest.dll
-D:\teduDemoPro\quanLyBanHang\quanLyBanHang.UnitTest\bin\Debug\net6.0\ref\quanLyBanHang.UnitTest.dll
 D:\teduDemoPro\quanLyBanHang\quanLyBanHang.UnitTest\bin\Debug\net6.0\quanLyBanHang.UnitTest.pdb
 D:\teduDemoPro\quanLyBanHang\quanLyBanHang.UnitTest\bin\Debug\net6.0\Azure.Core.dll
 D:\teduDemoPro\quanLyBanHang\quanLyBanHang.UnitTest\bin\Debug\net6.0\Azure.Identity.dll
@@ -169,3 +168,4 @@ D:\teduDemoPro\quanLyBanHang\quanLyBanHang.UnitTest\obj\Debug\net6.0\quanLyBanHa
 D:\teduDemoPro\quanLyBanHang\quanLyBanHang.UnitTest\obj\Debug\net6.0\ref\quanLyBanHang.UnitTest.dll
 D:\teduDemoPro\quanLyBanHang\quanLyBanHang.UnitTest\obj\Debug\net6.0\quanLyBanHang.UnitTest.pdb
 D:\teduDemoPro\quanLyBanHang\quanLyBanHang.UnitTest\obj\Debug\net6.0\quanLyBanHang.UnitTest.genruntimeconfig.cache
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.UnitTest\obj\Debug\net6.0\refint\quanLyBanHang.UnitTest.dll

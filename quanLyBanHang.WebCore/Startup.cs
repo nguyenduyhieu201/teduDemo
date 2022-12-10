@@ -24,6 +24,8 @@ namespace quanLyBanHang.WebCore
             services.AddDbContext<quanLyBanHangDbContext>(options => options.UseSqlServer("name=ConnectionStrings:Defaultconnection", 
                             b => b.MigrationsAssembly("quanLyBanHang.WebCore")));
             services.AddControllers();
+            services.AddAutoMapper(typeof(Startup));
+    
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "quanLyBanHang.WebCore", Version = "v1" });

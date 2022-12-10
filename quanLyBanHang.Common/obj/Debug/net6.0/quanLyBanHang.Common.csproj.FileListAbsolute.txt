@@ -5,8 +5,8 @@ D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Common\obj\Debug\net6.0\quanLyBanHang
 D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Common\obj\Debug\net6.0\quanLyBanHang.Common.csproj.CoreCompileInputs.cache
 D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Common\bin\Debug\net6.0\quanLyBanHang.Common.deps.json
 D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Common\bin\Debug\net6.0\quanLyBanHang.Common.dll
-D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Common\bin\Debug\net6.0\ref\quanLyBanHang.Common.dll
 D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Common\bin\Debug\net6.0\quanLyBanHang.Common.pdb
 D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Common\obj\Debug\net6.0\quanLyBanHang.Common.dll
 D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Common\obj\Debug\net6.0\ref\quanLyBanHang.Common.dll
 D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Common\obj\Debug\net6.0\quanLyBanHang.Common.pdb
+D:\teduDemoPro\quanLyBanHang\quanLyBanHang.Common\obj\Debug\net6.0\refint\quanLyBanHang.Common.dll

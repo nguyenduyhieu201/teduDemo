@@ -11,11 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "quanLyBanHang.Service", "qu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "quanLyBanHang.UnitTest", "quanLyBanHang.UnitTest\quanLyBanHang.UnitTest.csproj", "{3056CEDE-ED08-4442-B23C-DEB5BDD43032}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quanLyBanHang.Web", "quanLyBanHang.Web\quanLyBanHang.Web.csproj", "{95251535-B3E2-428B-96FA-A27B11ECB6C9}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "quanLyBanHang.WebCore", "quanLyBanHang.WebCore\quanLyBanHang.WebCore.csproj", "{653C7D63-C521-4679-B70F-680AB041E099}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quanLyBanHang.Common", "quanLyBanHang.Common\quanLyBanHang.Common.csproj", "{BC24B519-32BD-436E-85D7-A59E19933CC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "quanLyBanHang.Common", "quanLyBanHang.Common\quanLyBanHang.Common.csproj", "{BC24B519-32BD-436E-85D7-A59E19933CC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,10 +37,6 @@ Global
 		{3056CEDE-ED08-4442-B23C-DEB5BDD43032}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3056CEDE-ED08-4442-B23C-DEB5BDD43032}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3056CEDE-ED08-4442-B23C-DEB5BDD43032}.Release|Any CPU.Build.0 = Release|Any CPU
-		{95251535-B3E2-428B-96FA-A27B11ECB6C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{95251535-B3E2-428B-96FA-A27B11ECB6C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{95251535-B3E2-428B-96FA-A27B11ECB6C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{95251535-B3E2-428B-96FA-A27B11ECB6C9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{653C7D63-C521-4679-B70F-680AB041E099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{653C7D63-C521-4679-B70F-680AB041E099}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{653C7D63-C521-4679-B70F-680AB041E099}.Release|Any CPU.ActiveCfg = Release|Any CPU

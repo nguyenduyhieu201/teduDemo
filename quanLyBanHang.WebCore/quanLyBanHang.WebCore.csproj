@@ -5,6 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.9" />
     <PackageReference Include="Microsoft.AspNet.WebApi.Core" Version="5.2.7" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.0">
@@ -25,7 +28,6 @@
     <ProjectReference Include="..\quanLyBanHang.Model\quanLyBanHang.Model.csproj" />
     <ProjectReference Include="..\quanLyBanHang.Service\quanLyBanHang.Service.csproj" />
     <ProjectReference Include="..\quanLyBanHang.UnitTest\quanLyBanHang.UnitTest.csproj" />
-    <ProjectReference Include="..\quanLyBanHang.Web\quanLyBanHang.Web.csproj" />
   </ItemGroup>
 
   <ItemGroup>

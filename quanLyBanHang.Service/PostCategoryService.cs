@@ -9,19 +9,13 @@ namespace quanLyBanHang.Service
 {
     public interface IPostCategoryService
     {
-        void Add(PostCategory postCategory);
-
+        PostCategory Add(PostCategory postCategory);
         void Update(PostCategory postCategory);
-
         void Delete(int id);
-
-        IEnumerable<PostCategory> GetAll();
-
-        IEnumerable<PostCategory> GetAllByParentId(int parentId);
-
-        PostCategory GetById(int id);
-
         void Save();
+        IEnumerable<PostCategory> GetAll();
+        IEnumerable<PostCategory> GetAllByParentId(int parentId);
+        PostCategory GetById(int id);
     }
 
     public class PostCategoryService : IPostCategoryService
@@ -35,9 +29,10 @@ namespace quanLyBanHang.Service
             this._unitOfWork = unitOfWork;
         }
 
-        public void Add(PostCategory postCategory)
+        public PostCategory Add(PostCategory postCategory)
         {
             _postCategoryRepository.Add(postCategory);
+            return postCategory;
         }
 
         public void Delete(int id)

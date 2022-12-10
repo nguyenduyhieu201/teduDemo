@@ -4,11 +4,17 @@ using System;
 using System.Net;
 using System.Net.Http;
 using quanLyBanHang.Model.Models;
-using System.Web.Http;
+using Microsoft.AspNetCore.Mvc;
 
 namespace quanLyBanHang.WebCore.Infrastructure.Core
 {
-    public class ApiControllerBase : ApiController
+    public interface IApiControllerBase
+    {
+        public HttpResponseMessage CreateHttpResponse(HttpRequestMessage requestMessage, Func<HttpResponseMessage> function);
+        public void LogError(Exception ex);
+
+    }
+    public class ApiControllerBase : IApiControllerBase
     {
         private IErrorService _errorService;
         public ApiControllerBase(IErrorService errorService)
@@ -16,7 +22,7 @@ namespace quanLyBanHang.WebCore.Infrastructure.Core
             this._errorService = errorService;
         }
 
-        protected HttpResponseMessage CreateHttpResponse(HttpRequestMessage requestMessage, Func<HttpResponseMessage> function)
+        public HttpResponseMessage CreateHttpResponse(HttpRequestMessage requestMessage, Func<HttpResponseMessage> function)
         {
             HttpResponseMessage response = null;
             try
@@ -41,7 +47,7 @@ namespace quanLyBanHang.WebCore.Infrastructure.Core
             return response;
         }
 
-        private void LogError(Exception ex)
+        public void LogError(Exception ex)
         {
             try
             {
