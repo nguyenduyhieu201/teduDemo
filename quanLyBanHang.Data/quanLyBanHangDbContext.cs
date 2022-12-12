@@ -6,6 +6,7 @@ namespace quanLyBanHang.Data
     {
         public quanLyBanHangDbContext()
         {
+
         }
 
         public quanLyBanHangDbContext (DbContextOptions<quanLyBanHangDbContext> options) : base(options)
