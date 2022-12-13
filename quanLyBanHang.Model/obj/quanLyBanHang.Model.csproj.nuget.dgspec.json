@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.Model\\quanLyBanHang.Model.csproj": {}
+    "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanhang.Model\\quanLyBanHang.Model.csproj": {}
   },
   "projects": {
-    "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.Model\\quanLyBanHang.Model.csproj": {
+    "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanhang.Model\\quanLyBanHang.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.Model\\quanLyBanHang.Model.csproj",
+        "projectUniqueName": "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanhang.Model\\quanLyBanHang.Model.csproj",
         "projectName": "quanLyBanHang.Model",
-        "projectPath": "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.Model\\quanLyBanHang.Model.csproj",
+        "projectPath": "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanhang.Model\\quanLyBanHang.Model.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.Model\\obj\\",
+        "outputPath": "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanhang.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
-            "targetAlias": "netstandard2.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,14 +37,12 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
-            "NETStandard.Library": {
-              "suppressParent": "All",
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -57,6 +55,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }

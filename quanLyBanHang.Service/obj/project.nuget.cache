@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z/lougygP/4lcO2RsIU1HCTcHlLaiCucR8sevrjIqLsOX/iG1CDTKDjuuQBxGdylkw6mvft8DB52UzzHzrX5YA==",
+  "dgSpecHash": "alfEKf7UzYd30Tp4SIYeAccXTEpdhBCb/vpuJCSAWhsiLS5vobQACIIyiqOh4+7mRII2zful484xYhLe8Ekafw==",
   "success": true,
-  "projectFilePath": "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.Service\\quanLyBanHang.Service.csproj",
+  "projectFilePath": "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.Service\\quanLyBanHang.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

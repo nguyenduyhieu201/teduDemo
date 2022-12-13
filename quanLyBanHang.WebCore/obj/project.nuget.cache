@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WxJetYOJFhAgJo6GZfq+Lnv79RPshF/SeiWbgveqK1a0w+kjbd9IpknVXx7c+4YnaafXApsWRiRQRRyOo0uI7g==",
+  "dgSpecHash": "v0e2ziwqk8svgtsd4vy1tkWMZzTq0qr5cuspQb5SvuMyguEkMSpWFpHlLyFIYWsgbeizKBgXdX/0sVf4/4stWw==",
   "success": true,
-  "projectFilePath": "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.WebCore\\quanLyBanHang.WebCore.csproj",
+  "projectFilePath": "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.WebCore\\quanLyBanHang.WebCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

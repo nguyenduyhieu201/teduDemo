@@ -1,0 +1,12 @@
+D:\teduDemoPro\quanLyBanhang\quanLyBanhang.Model\obj\Debug\net6.0\quanLyBanHang.Model.csproj.AssemblyReference.cache
+D:\teduDemoPro\quanLyBanhang\quanLyBanhang.Model\obj\Debug\net6.0\quanLyBanHang.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\teduDemoPro\quanLyBanhang\quanLyBanhang.Model\obj\Debug\net6.0\quanLyBanHang.Model.AssemblyInfoInputs.cache
+D:\teduDemoPro\quanLyBanhang\quanLyBanhang.Model\obj\Debug\net6.0\quanLyBanHang.Model.AssemblyInfo.cs
+D:\teduDemoPro\quanLyBanhang\quanLyBanhang.Model\obj\Debug\net6.0\quanLyBanHang.Model.csproj.CoreCompileInputs.cache
+D:\teduDemoPro\quanLyBanhang\quanLyBanhang.Model\bin\Debug\net6.0\quanLyBanHang.Model.deps.json
+D:\teduDemoPro\quanLyBanhang\quanLyBanhang.Model\bin\Debug\net6.0\quanLyBanHang.Model.dll
+D:\teduDemoPro\quanLyBanhang\quanLyBanhang.Model\bin\Debug\net6.0\quanLyBanHang.Model.pdb
+D:\teduDemoPro\quanLyBanhang\quanLyBanhang.Model\obj\Debug\net6.0\quanLyBanHang.Model.dll
+D:\teduDemoPro\quanLyBanhang\quanLyBanhang.Model\obj\Debug\net6.0\refint\quanLyBanHang.Model.dll
+D:\teduDemoPro\quanLyBanhang\quanLyBanhang.Model\obj\Debug\net6.0\quanLyBanHang.Model.pdb
+D:\teduDemoPro\quanLyBanhang\quanLyBanhang.Model\obj\Debug\net6.0\ref\quanLyBanHang.Model.dll

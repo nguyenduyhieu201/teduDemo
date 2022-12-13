@@ -7695,11 +7695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.UnitTest\\quanLyBanHang.UnitTest.csproj",
+      "projectUniqueName": "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.UnitTest\\quanLyBanHang.UnitTest.csproj",
       "projectName": "quanLyBanHang.UnitTest",
-      "projectPath": "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.UnitTest\\quanLyBanHang.UnitTest.csproj",
+      "projectPath": "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.UnitTest\\quanLyBanHang.UnitTest.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.UnitTest\\obj\\",
+      "outputPath": "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7716,11 +7716,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.Data\\quanLyBanHang.Data.csproj": {
-              "projectPath": "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.Data\\quanLyBanHang.Data.csproj"
+            "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.Data\\quanLyBanHang.Data.csproj": {
+              "projectPath": "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.Data\\quanLyBanHang.Data.csproj"
             },
-            "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.Model\\quanLyBanHang.Model.csproj": {
-              "projectPath": "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.Model\\quanLyBanHang.Model.csproj"
+            "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.Model\\quanLyBanHang.Model.csproj": {
+              "projectPath": "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.Model\\quanLyBanHang.Model.csproj"
             }
           }
         }

@@ -8392,11 +8392,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.WebCore\\quanLyBanHang.WebCore.csproj",
+      "projectUniqueName": "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.WebCore\\quanLyBanHang.WebCore.csproj",
       "projectName": "quanLyBanHang.WebCore",
-      "projectPath": "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.WebCore\\quanLyBanHang.WebCore.csproj",
+      "projectPath": "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.WebCore\\quanLyBanHang.WebCore.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.WebCore\\obj\\",
+      "outputPath": "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.WebCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8413,20 +8413,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.Common\\quanLyBanHang.Common.csproj": {
-              "projectPath": "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.Common\\quanLyBanHang.Common.csproj"
+            "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.Common\\quanLyBanHang.Common.csproj": {
+              "projectPath": "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.Common\\quanLyBanHang.Common.csproj"
             },
-            "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.Data\\quanLyBanHang.Data.csproj": {
-              "projectPath": "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.Data\\quanLyBanHang.Data.csproj"
+            "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.Data\\quanLyBanHang.Data.csproj": {
+              "projectPath": "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.Data\\quanLyBanHang.Data.csproj"
             },
-            "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.Model\\quanLyBanHang.Model.csproj": {
-              "projectPath": "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.Model\\quanLyBanHang.Model.csproj"
+            "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.Model\\quanLyBanHang.Model.csproj": {
+              "projectPath": "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.Model\\quanLyBanHang.Model.csproj"
             },
-            "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.Service\\quanLyBanHang.Service.csproj": {
-              "projectPath": "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.Service\\quanLyBanHang.Service.csproj"
+            "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.Service\\quanLyBanHang.Service.csproj": {
+              "projectPath": "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.Service\\quanLyBanHang.Service.csproj"
             },
-            "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.UnitTest\\quanLyBanHang.UnitTest.csproj": {
-              "projectPath": "D:\\teduDemoPro\\quanLyBanHang\\quanLyBanHang.UnitTest\\quanLyBanHang.UnitTest.csproj"
+            "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.UnitTest\\quanLyBanHang.UnitTest.csproj": {
+              "projectPath": "D:\\teduDemoPro\\quanLyBanhang\\quanLyBanHang.UnitTest\\quanLyBanHang.UnitTest.csproj"
             }
           }
         }
